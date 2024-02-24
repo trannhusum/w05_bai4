@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\w05_bai4\bin\Debug\w05_bai4.exe.config
+D:\visual studio\Csharp\w05_bai4\bin\Debug\w05_bai4.exe
+D:\visual studio\Csharp\w05_bai4\bin\Debug\w05_bai4.pdb
+D:\visual studio\Csharp\w05_bai4\obj\Debug\w05_bai4.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\w05_bai4\obj\Debug\w05_bai4.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\w05_bai4\obj\Debug\w05_bai4.exe
+D:\visual studio\Csharp\w05_bai4\obj\Debug\w05_bai4.pdb
